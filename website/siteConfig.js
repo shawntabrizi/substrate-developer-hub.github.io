@@ -260,6 +260,10 @@ const siteConfig = {
     defaultLang: 'rust',
   },
 
+  // URL for the Help Translate tab of language selection when languages besides English are enabled.
+  // This can be included you are using translations but does not have to be.
+  translationRecruitingLink: 'Translate For Us',
+
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
 
