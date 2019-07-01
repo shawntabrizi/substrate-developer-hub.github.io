@@ -136,7 +136,7 @@ const siteConfig = {
     indexName: 'substrate',
     algoliaOptions: {
       // https://www.algolia.com/doc/api-reference/api-parameters/
-      facetFilters: ["language:LANGUAGE"]
+      //facetFilters: ["language:LANGUAGE"]
     }
   }
 
